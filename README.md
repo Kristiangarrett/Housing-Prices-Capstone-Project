@@ -17,6 +17,7 @@ Clean data by June 9th
 Create Presentation
 
 DATA SOURCES 
+
 https://www.deptofnumbers.com/rent/tennessee/nashville/
 
 https://fred.stlouisfed.org/series/ATNHPIUS34980Q
