@@ -3,16 +3,19 @@ This is the repository for my capstone project
 
 EXECUTIVE SUMMARY
 I read an article in the Washington Post stating that the amount of wealth that Millennials have tied into real estate is almost zero in comparison to multiple other generations including but not limited to Gen X and Boomers.. I wanted to dive into this and look as far back as I could to see what kind of people own houses.
+
 MOTIVATION 
 Back in 2008, the housing market collapsed. I was 20 and I was working in restaurants and it didn’t really mean much to me at the time, but now I am 32 and I am looking into buying a home. I think there is something very valuable data wise to show the rise in the prices of houses and the ages of people buying them.
+
 DATA QUESTION:
 What kind of people are buying houses?
 Is there any correlation to who is buying houses in comparison to wealth?
-Is there any correlation to who is buying houses in comparison to minimum wage?
+
 SCHEDULE 
 Get all the data by June 4th
 Clean data by June 9th
-Create Presentation / Shiny App June 16th 
+Create Presentation
+
 DATA SOURCES 
 https://www.deptofnumbers.com/rent/tennessee/nashville/
 https://fred.stlouisfed.org/series/ATNHPIUS34980Q
