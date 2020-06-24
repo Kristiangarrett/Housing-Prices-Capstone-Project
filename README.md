@@ -18,10 +18,15 @@ Create Presentation
 
 DATA SOURCES 
 https://www.deptofnumbers.com/rent/tennessee/nashville/
+
 https://fred.stlouisfed.org/series/ATNHPIUS34980Q
+
 https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/table/#quarter:121;series:Real%20estate;demographic:age;population:all;units:levels
+
 https://www.census.gov/housing/hvs/data/ann18ind.html
+
 https://www.zillow.com/nashville-tn/home-values/
+
 KNOWN ISSUES AND CHALLENGES 
 Will I get everything done in time?
 Is what I find going to be interesting?
